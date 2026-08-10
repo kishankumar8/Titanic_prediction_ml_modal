@@ -53,6 +53,6 @@ The project uses the Titanic dataset containing passenger information such as ag
 
 -> to find best alorithem for model  dataset .
 
--> to do equally set of data in train nd test csv .
+-> to do equally set of data in train and test csv .
 
 
