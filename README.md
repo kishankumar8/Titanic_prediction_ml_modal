@@ -56,6 +56,6 @@ The project uses the Titanic dataset containing passenger information such as ag
 
 -> to do equally set of data in train and test csv .
 
-->problme faced when we make submission file for kaggle .
+->problme faced when we make submi
 
 
